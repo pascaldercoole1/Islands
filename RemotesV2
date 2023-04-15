@@ -1,4 +1,4 @@
-print("HASH 1079")
+print("HASH 7779.2")
 
 function UpdateRemote(RemoteName, Value)
     if game:FindFirstChild("_REMOTES_NEKO_") == nil then
@@ -20,9 +20,9 @@ function UpdateRemote(RemoteName, Value)
 end
 
 
-UpdateRemote("KillRemote", "xzDgQvylyrvQzjcbgKhfwog/WafejKBxWsteknGq") -- 2
-UpdateRemote("KillRemoteHashName", "oueprFhnnbossc") -- 2
-_G.KillRemoteHash = "\7\240\159\164\163\240\159\164\161\7\n\7\n\7\nkxqyqybrzumumqAob"
+UpdateRemote("KillRemote", "hismZjievQu/zncxeghnjpbhqgkdga") -- 2
+UpdateRemote("KillRemoteHashName", "hJuirbpnTHrd") -- 2
+_G.KillRemoteHash = "\7\240\159\164\163\240\159\164\161\7\n\7\n\7\nXmoxviYUoqmcocds"
 
 UpdateRemote("BlockRemote", "CLIENT_BLOCK_HIT_REQUEST")
 UpdateRemote("SendMailRemote", "NINGI(HUINUH(UIN(IH(HUUI")
@@ -31,19 +31,20 @@ UpdateRemote("FishFarmFinishRemote", "pzkYXjtmgiw/gplioKjdofxpFZhgwucmhheA")
 UpdateRemote("SpiritRemote", "vCjLmrfn/cysLHyxblooq")
 
 UpdateRemote("PetCollect", "CLIENT_PET_ANIMAL")
-UpdateRemote("TOOL_PICKUPHashData", "tCftaNyiptutkqpecn") -- 2
-_G.TOOL_PICKUPHash = "\7\240\159\164\163\240\159\164\161\7\n\7\n\7\nfqnYbzYsskaWdyyoatfekwl"
+UpdateRemote("TOOL_PICKUPHashData", "owfedoqXHTbechGk") -- 2
+_G.TOOL_PICKUPHash = "\7\240\159\164\163\240\159\164\161\7\n\7\n\7\nZzserArzeregbfwq"
 
-UpdateRemote("CropPlaceHashData", "styTb") -- 2
-_G.CropPlaceHash = "\7\240\159\164\163\240\159\164\161\7\n\7\n\7\nYEJnRmwyjSkggcz" -- 2
-UpdateRemote("BlockPlaceHashData", "styTb") -- 2
-_G.BlockPlaceHash = "\7\240\159\164\163\240\159\164\161\7\n\7\n\7\nYEJnRmwyjSkggcz" -- 2
+UpdateRemote("CropPlaceHashData", "SmXfceufkbkdxlxxKwhwjxjKsixoqpEjynjg") -- 2
+_G.CropPlaceHash = "\7\240\159\164\163\240\159\164\161\7\n\7\n\7\nlgvhyfeVnrge" -- 2
+UpdateRemote("BlockPlaceHashData", "SmXfceufkbkdxlxxKwhwjxjKsixoqpEjynjg") -- 2
+_G.BlockPlaceHash = "\7\240\159\164\163\240\159\164\161\7\n\7\n\7\nlgvhyfeVnrge" -- 2
 
 
 UpdateRemote("FlowerCollect", "client_request_1") -- 1
-UpdateRemote("CropHashData", "TxnYvcxsbmoszhtWgepepgKw") -- 2
-_G.CropHash = "\7\240\159\164\163\240\159\164\161\7\n\7\n\7\nnpoxatTLssvgsrojWo"
-UpdateRemote("TreeHashData", "dqkufatrwragfnwnOkGqpmoIlsbiqmu") -- 2
-_G.TreeHash = "\7\240\159\164\163\240\159\164\161\7\n\7\n\7\netXpqfEinHjwPzzlngqehSYzpnozuqtwawAxF"
-UpdateRemote("BlockHitHashData", "dqkufatrwragfnwnOkGqpmoIlsbiqmu") -- 2
-_G.BlockHitHash = "\7\240\159\164\163\240\159\164\161\7\n\7\n\7\netXpqfEinHjwPzzlngqehSYzpnozuqtwawAxF"
+UpdateRemote("CropHashData", "MlcbatimNanrjTaghvl") -- 2
+_G.CropHash = "\7\240\159\164\163\240\159\164\161\7\n\7\n\7\nrTrurdRhkiHpfjqsZorkpypep"
+UpdateRemote("TreeHashData", "ZcaQEblaoohsgantosn") -- 2
+_G.TreeHash = "\7\240\159\164\163\240\159\164\161\7\n\7\n\7\nefjwojhzqpkprfzcifuszfsdzgexwfbsjeltiYb"
+UpdateRemote("BlockHitHashData", "ZcaQEblaoohsgantosn") -- 2
+_G.BlockHitHash = "\7\240\159\164\163\240\159\164\161\7\n\7\n\7\nefjwojhzqpkprfzcifuszfsdzgexwfbsjeltiYb"
+
